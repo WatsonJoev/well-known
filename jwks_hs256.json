@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "kty": "oct",
+      "kid": "poc-hs256-key-1",
+      "use": "sig",
+      "alg": "HS256",
+      "k": "JAdTefdHv37Zu3fFFJRCJPrKwkY7i_y6jvhaVu8JeOM"
+    }
+  ]
+}
