@@ -1,12 +1,12 @@
 {
   "keys": [
     {
-      "alg": "RS256",
       "e": "AQAB",
       "kid": "poc-rsa-key-1",
       "kty": "RSA",
-      "n": "mL7_l2TjOeQsARqhtWTFJYpvnUt8b_MAjOmFBAjz1VlJd66ltlBHKAvRBT5dtHx63hlTUyyjHE4ykU6nNHP4KUXFbW_BpAP-ClNKcBiKv5rjYg1Slsm4L3imyF56DkmNacJMrFmdp2VRwQ7fgXip9eCB4iYn_G73DywZ-GmUBkjlatvBjPjwQkL9_jSnWJIZo0PwYhL7BeTqiN3myE4ozT6eeSEVIFm6tOhbRPoQmYt5E0cF1hcK3MlVulBGa5dpeEkHftBDl5IuD_srUilLG5hghb1oHJ3Pd6aHLsnmMnkw8_vT4lOYt7KDLgVQw6rPEjf8CRwfckQPUzIzG3eogw",
-      "use": "sig"
+      "n": "xkHpTR5RA4wpXqA0CtnOnVTSNTWhCGlhgXRZ0necOaktpZ3uu3BjhHbEVaduYL3iRuBUTWnXonMrnx0rXFreW4iNuFgpWcIRifR3o9JMy3_WZenQexBGrUMCkXGQ0x1cjKB6qZvC479WjDwfS16GHtaA2KX6vJWrnVBsQSRePHjRiwnVr7ROMe5W5xJ6EZK-xDTr2I7juBK-J3LbwMgN8MZ_4KszXugb2TAbaMkjlEGnbtMJZy2bs9PeJbVCFFaqouug0vnxRmNsKbh2QdwMSrdjTsQE7wGdVvFfK7UfFvlDwnvkgYU4TJOyeHDBHaDBewGsoFKFo5EJT-xAQu7R2Q",
+      "use": "sig",
+      "alg": "RS256"
     }
   ]
 }
